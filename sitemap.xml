@@ -1,57 +1,64 @@
-<?xml-stylesheet type="text/xsl" href="http://kkBill.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kkBill.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://kkBill.github.io/categories/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2020-11-14T23:33:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2020-11-14T23:33:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/test/</loc>
+    <lastmod>2020-11-14T23:33:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-11-14T20:59:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://kkBill.github.io/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-11-14T20:59:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://kkBill.github.io/post/</loc>
+    <loc>http://localhost:1313/post/iamback/</loc>
     <lastmod>2020-11-14T20:59:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://kkBill.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2020-11-14T20:59:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://kkBill.github.io/post/iamback/</loc>
-    <lastmod>2020-11-14T20:59:48+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://kkBill.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2020-11-14T20:59:48+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://kkBill.github.io/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E6%84%9F/</loc>
+    <loc>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E6%84%9F/</loc>
     <lastmod>2020-11-14T20:59:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

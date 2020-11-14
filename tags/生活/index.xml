@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>生活 on kkBill&#39;s BLOG</title>
-    <link>http://kkBill.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
+    <link>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</link>
     <description>Recent content in 生活 on kkBill&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2020 20:59:48 +0800</lastBuildDate><atom:link href="http://kkBill.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2020 20:59:48 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我回来了</title>
-      <link>http://kkBill.github.io/post/iamback/</link>
+      <link>http://localhost:1313/post/iamback/</link>
       <pubDate>Sat, 14 Nov 2020 20:59:48 +0800</pubDate>
       
-      <guid>http://kkBill.github.io/post/iamback/</guid>
+      <guid>http://localhost:1313/post/iamback/</guid>
       <description>&lt;p&gt;I am back!&lt;/p&gt;</description>
     </item>
     
