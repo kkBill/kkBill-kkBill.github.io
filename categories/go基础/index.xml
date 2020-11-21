@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go基础 on kkBill&#39;s Blog</title>
+    <link>https://kkbill.github.io/categories/go%E5%9F%BA%E7%A1%80/</link>
+    <description>Recent content in go基础 on kkBill&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 21 Nov 2020 21:39:38 +0800</lastBuildDate><atom:link href="https://kkbill.github.io/categories/go%E5%9F%BA%E7%A1%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Slice Insert</title>
+      <link>https://kkbill.github.io/post/go-slice-insert/</link>
+      <pubDate>Sat, 21 Nov 2020 21:39:38 +0800</pubDate>
+      
+      <guid>https://kkbill.github.io/post/go-slice-insert/</guid>
+      <description>如何在slice中任意位置插入一个元素 Go语言的切片（Slice）并不提供insert API，但是在使用中，经常会出现在任意位置插入一个元素</description>
+    </item>
+    
+  </channel>
+</rss>
