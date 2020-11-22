@@ -6,14 +6,23 @@
     <description>Recent content in Posts on kkBill&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 21 Nov 2020 21:39:38 +0800</lastBuildDate><atom:link href="https://kkbill.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2020 12:25:40 +0800</lastBuildDate><atom:link href="https://kkbill.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Go Slice Insert</title>
+      <title>Go Container(list, heap, ring)</title>
+      <link>https://kkbill.github.io/post/go-container/</link>
+      <pubDate>Sun, 22 Nov 2020 12:25:40 +0800</pubDate>
+      
+      <guid>https://kkbill.github.io/post/go-container/</guid>
+      <description>1. 前言 2. heap(堆) 3. list(双向链表) 4. ring(循环链表) 5. 总结 1. 前言 C++的STL标准库中定义了常见的数据结构，比如stack、v</description>
+    </item>
+    
+    <item>
+      <title>Slice insert/remove</title>
       <link>https://kkbill.github.io/post/go-slice-insert/</link>
       <pubDate>Sat, 21 Nov 2020 21:39:38 +0800</pubDate>
       
       <guid>https://kkbill.github.io/post/go-slice-insert/</guid>
-      <description>如何在slice中任意位置插入一个元素 Go语言的切片（Slice）并不提供insert API，但是在使用中，经常会出现在任意位置插入一个元素</description>
+      <description>插入 删除 Go语言的切片（Slice）并不提供insert/delete API，但是在使用中，经常会出现在任意位置插入/删除一个元素的情况。 插</description>
     </item>
     
     <item>
