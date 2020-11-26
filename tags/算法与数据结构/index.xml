@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>算法与数据结构 on kkBill&#39;s Blog</title>
+    <link>https://kkbill.github.io/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
+    <description>Recent content in 算法与数据结构 on kkBill&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 26 Nov 2020 20:26:51 +0800</lastBuildDate><atom:link href="https://kkbill.github.io/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heap</title>
+      <link>https://kkbill.github.io/post/heap/</link>
+      <pubDate>Thu, 26 Nov 2020 20:26:51 +0800</pubDate>
+      
+      <guid>https://kkbill.github.io/post/heap/</guid>
+      <description>堆的性质 如果只说”堆（heap）“这样一种数据结构，那么简单的，我们认为它是一个可以迅速找到一堆数中的最大值（对应大顶堆）或者最小值（对应小</description>
+    </item>
+    
+  </channel>
+</rss>
