@@ -6,7 +6,16 @@
     <description>Recent content in go on kkBill&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Nov 2020 12:25:40 +0800</lastBuildDate><atom:link href="https://kkbill.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Dec 2020 22:38:54 +0800</lastBuildDate><atom:link href="https://kkbill.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strings, bytes, runes and characters in Go</title>
+      <link>https://kkbill.github.io/post/go-string/</link>
+      <pubDate>Wed, 02 Dec 2020 22:38:54 +0800</pubDate>
+      
+      <guid>https://kkbill.github.io/post/go-string/</guid>
+      <description>1.string概念 Go标准库builtin给出了所有内置类型的定义，源代码位于src/builtin/builtin.go，其中关于str</description>
+    </item>
+    
     <item>
       <title>Go Container(list, heap, ring)</title>
       <link>https://kkbill.github.io/post/go-container/</link>

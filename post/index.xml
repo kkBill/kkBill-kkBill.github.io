@@ -6,7 +6,25 @@
     <description>Recent content in Posts on kkBill&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2020 20:26:51 +0800</lastBuildDate><atom:link href="https://kkbill.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Dec 2020 16:39:54 +0800</lastBuildDate><atom:link href="https://kkbill.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>对字符编码的简单理解</title>
+      <link>https://kkbill.github.io/post/unicode-and-character/</link>
+      <pubDate>Thu, 03 Dec 2020 16:39:54 +0800</pubDate>
+      
+      <guid>https://kkbill.github.io/post/unicode-and-character/</guid>
+      <description>注：本文主要转自阮一峰老师的字符编码笔记：ASCII，Unicode 和 UTF-8 1.ASCII 码 我们知道，计算机内部，所有信息最终都是一个二进制值。每一个二进制</description>
+    </item>
+    
+    <item>
+      <title>Strings, bytes, runes and characters in Go</title>
+      <link>https://kkbill.github.io/post/go-string/</link>
+      <pubDate>Wed, 02 Dec 2020 22:38:54 +0800</pubDate>
+      
+      <guid>https://kkbill.github.io/post/go-string/</guid>
+      <description>1.string概念 Go标准库builtin给出了所有内置类型的定义，源代码位于src/builtin/builtin.go，其中关于str</description>
+    </item>
+    
     <item>
       <title>Heap</title>
       <link>https://kkbill.github.io/post/heap/</link>
