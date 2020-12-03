@@ -49,7 +49,7 @@
 <meta itemprop="description" content="1.string概念 Go标准库builtin给出了所有内置类型的定义，源代码位于src/builtin/builtin.go，其中关于str">
 <meta itemprop="datePublished" content="2020-12-02T22:38:54+08:00" />
 <meta itemprop="dateModified" content="2020-12-02T22:38:54+08:00" />
-<meta itemprop="wordCount" content="3554">
+<meta itemprop="wordCount" content="3560">
 
 
 
@@ -130,7 +130,7 @@
         <div class="post-category">
             <a href="/categories/go%E5%9F%BA%E7%A1%80/"> go基础 </a>
             </div>
-          <span class="more-meta"> 约 3554 字 </span>
+          <span class="more-meta"> 约 3560 字 </span>
           <span class="more-meta"> 预计阅读 8 分钟 </span>
         
       </div>
@@ -248,7 +248,7 @@ index=[11], x=[8c], c=[ ]  |
 <p>&ldquo;Code point&rdquo; is a bit of a mouthful, so Go introduces a shorter term for the concept: rune. The term appears in the libraries and source code, and means exactly the same as &ldquo;code point&rdquo;, with one interesting addition.</p>
 <p>The Go language defines the word rune as an alias for the type int32, so programs can be clear when an integer value represents a code point. Moreover, what you might think of as a character constant is called a rune constant in Go.</p>
 </blockquote>
-<p>总结来说，<code>rune</code>本质上就是Unicode Code Point。关于Unicode编码、UTF-8等内容，请移步这篇文章。</p>
+<p>总结来说，<code>rune</code>本质上就是Unicode Code Point。关于Unicode编码、UTF-8等内容，请移步<a href="https://kkbill.github.io/post/unicode-and-character/">对字符编码的简单理解</a>。</p>
 <h2 id="2string数据结构">2.<code>string</code>数据结构</h2>
 <p><code>string</code>数据结构的定义位于<a href="https://github.com/golang/go/blob/master/src/runtime/string.go#L228">src/runtime/string.go</a>，如下所示：</p>
 <div class="highlight"><div class="chroma">
