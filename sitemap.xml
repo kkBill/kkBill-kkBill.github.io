@@ -10,28 +10,56 @@
   
   <url>
     <loc>https://kkbill.github.io/categories/</loc>
-    <lastmod>2020-12-03T16:39:54+08:00</lastmod>
+    <lastmod>2021-01-06T10:49:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kkbill.github.io/</loc>
-    <lastmod>2020-12-03T16:39:54+08:00</lastmod>
+    <lastmod>2021-01-06T10:49:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkbill.github.io/tags/kubeedge/</loc>
+    <lastmod>2021-01-06T10:49:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkbill.github.io/categories/kubeedge/</loc>
+    <lastmod>2021-01-06T10:49:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkbill.github.io/post/kubeedge-devicetwin/</loc>
+    <lastmod>2021-01-06T10:49:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kkbill.github.io/post/</loc>
-    <lastmod>2020-12-03T16:39:54+08:00</lastmod>
+    <lastmod>2021-01-06T10:49:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kkbill.github.io/tags/</loc>
-    <lastmod>2020-12-03T16:39:54+08:00</lastmod>
+    <lastmod>2021-01-06T10:49:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kkbill.github.io/post/kubeedge-devicecontroller/</loc>
+    <lastmod>2021-01-06T10:44:51+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -130,20 +158,6 @@
   <url>
     <loc>https://kkbill.github.io/post/go-slice-insert/</loc>
     <lastmod>2020-11-21T21:39:38+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkbill.github.io/post/something-on-birthday/</loc>
-    <lastmod>2020-11-18T00:05:01+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kkbill.github.io/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E6%84%9F/</loc>
-    <lastmod>2020-11-18T00:05:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

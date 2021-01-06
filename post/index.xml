@@ -6,7 +6,25 @@
     <description>Recent content in Posts on kkBill&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 03 Dec 2020 16:39:54 +0800</lastBuildDate><atom:link href="https://kkbill.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jan 2021 10:49:09 +0800</lastBuildDate><atom:link href="https://kkbill.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KubeEdge DeviceTwin模块详解</title>
+      <link>https://kkbill.github.io/post/kubeedge-devicetwin/</link>
+      <pubDate>Wed, 06 Jan 2021 10:49:09 +0800</pubDate>
+      
+      <guid>https://kkbill.github.io/post/kubeedge-devicetwin/</guid>
+      <description>1. 概述 首先，明确DeviceTwin模块在KubeEdge架构中所处的位置，如下图所示： 其中，黄色部分是KubEedge设备管理链路相关的组</description>
+    </item>
+    
+    <item>
+      <title>KubeEdge DeviceController模块详解</title>
+      <link>https://kkbill.github.io/post/kubeedge-devicecontroller/</link>
+      <pubDate>Wed, 06 Jan 2021 10:44:51 +0800</pubDate>
+      
+      <guid>https://kkbill.github.io/post/kubeedge-devicecontroller/</guid>
+      <description>1. 概述 DeviceController属于KubeEdge的云端组件，负责设备管理。KubeEdge利用Kubernetes提供的CRD机制</description>
+    </item>
+    
     <item>
       <title>字符编码</title>
       <link>https://kkbill.github.io/post/unicode-and-character/</link>
@@ -59,15 +77,6 @@
       
       <guid>https://kkbill.github.io/post/go-slice-insert/</guid>
       <description>插入 删除 Go语言的切片（Slice）并不提供insert/delete API，但是在使用中，经常会出现在任意位置插入/删除一个元素的情况。 插</description>
-    </item>
-    
-    <item>
-      <title>写在2020生日之际</title>
-      <link>https://kkbill.github.io/post/something-on-birthday/</link>
-      <pubDate>Wed, 18 Nov 2020 00:05:01 +0800</pubDate>
-      
-      <guid>https://kkbill.github.io/post/something-on-birthday/</guid>
-      <description>今天收到了华为的录用通知书，部门是CloudBu下的容器团队。恰好今天又是自己的生日，想着，写点什么吧。自从读研以来，一直是马不停蹄的向前奔</description>
     </item>
     
   </channel>
